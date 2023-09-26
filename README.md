@@ -1,5 +1,3 @@
-# Project Name
-
 In this project, we will explore fundamental JavaScript concepts such as variables, conditionals, and native methods. We have created a coding playground to help one master these basics without distractions.
 
 # ScreenShots
