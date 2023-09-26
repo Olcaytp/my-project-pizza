@@ -2,6 +2,16 @@
 
 In this project, we will explore fundamental JavaScript concepts such as variables, conditionals, and native methods. We have created a coding playground to help one master these basics without distractions.
 
+## ScreenShots
+![2](https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image%20(2).png)
+*******************************************************************************************************************
+![3](https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image%20(3).png)
+*******************************************************************************************************************
+![1](https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image.png)
+*******************************************************************************************************************
+![4](https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image%20(4).png)*******************************************************************************************************************
+![5](https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image%20(5).png)
+
 ## The problem
 
 While writing the project codes, we used the following problem approach and various tools and techniques:
