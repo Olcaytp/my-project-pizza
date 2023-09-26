@@ -1,11 +1,19 @@
 # Project Name
 
-Replace this readme with your own information about your project. Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+In this project, we will explore fundamental JavaScript concepts such as variables, conditionals, and native methods. We have created a coding playground to help one master these basics without distractions.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+While writing the project codes, we used the following problem approach and various tools and techniques:
 
-## View it live
+alert() Method: In the first step, we used the alert() method to display a welcome message to the user. This method allows us to communicate with the user through pop-up message boxes. To customize the message, we used templates and ${} placeholders to add dynamic content.
 
-Have you deployed your project somewhere? Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about
+prompt() Method: We used the prompt() method to ask the user for their name and food choice. This method is used to receive user input. While taking user input, we performed data validation to ensure that only valid names containing letters and spaces were accepted.
+
+Do-While Loops: We employed do-while loops to repeatedly ask questions until we received a valid input from the user. These loops allow us to keep asking questions until the user provides a valid input.
+
+Switch-Case Statements: To determine the chosen food type and subtype based on the user's input, we used switch-case statements. These statements help us set variables based on the user's selection.
+
+Conditional Statements: We used conditional statements (if, else if, else) to control and validate user input, rejecting invalid entries.
+
+These tools and techniques were utilized to create an interactive food ordering application, where we welcomed the user, collected their name, and allowed them to choose a food type and subtype. This process helps in understanding fundamental JavaScript concepts and their practical application.
