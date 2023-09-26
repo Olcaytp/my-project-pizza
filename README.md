@@ -17,3 +17,6 @@ Switch-Case Statements: To determine the chosen food type and subtype based on t
 Conditional Statements: We used conditional statements (if, else if, else) to control and validate user input, rejecting invalid entries.
 
 These tools and techniques were utilized to create an interactive food ordering application, where we welcomed the user, collected their name, and allowed them to choose a food type and subtype. This process helps in understanding fundamental JavaScript concepts and their practical application.
+
+I've deployed the project, and you can explore it by clicking on the following link: https://my-project-pizza.netlify.app/
+Feel free to take a look and see what it's all about!"
