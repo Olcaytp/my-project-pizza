@@ -12,8 +12,6 @@ In this project, we will explore fundamental JavaScript concepts such as variabl
 ![4](https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image%20(4).png)*******************************************************************************************************************
 ![5](https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image%20(5).png)
 
-# Project Name
-
 ## The Problem
 
 - **alert() Method**: In the first step, we used the `alert()` method to display a welcome message to the user. This method allows us to communicate with the user through pop-up message boxes. To customize the message, we used templates and `${}` placeholders to add dynamic content.
